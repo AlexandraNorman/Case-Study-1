@@ -4,7 +4,7 @@ author: "Alex Norman"
 date: "October 30, 2016"
 output: 
         html_document:
-        keep_md: TRUE
+        keep_md: YES
 ---
 
 # Introduction
@@ -131,11 +131,17 @@ mean(Rank.nonOECD.nan$Ranking)
 
 ```
 ### Analysis with NAs in dataset
+
 *Average Ranking for High Income nonOECD Countries: NA
+
 Since there are NA values for GDP in this group it makes the average NA. This is the reason why we need to filter out NA values.
+
 *Average Ranking for High Income OECD Countries: 32.96667
+
 ### Analysis without NAs in the dataset
+
 *Average Ranking for High Income nonOECD Countries: 91.91304
+
 *Average Ranking for High Income OECD Countries: 32.96667
 
 ##Analysis 4
