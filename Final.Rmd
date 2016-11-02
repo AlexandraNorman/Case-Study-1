@@ -174,3 +174,7 @@ top_ranked_lower_income <- GDP_final_nan_sort[which(GDP_final_nan_sort$Income.Gr
 
 There are five countries that are in the top 38 highest GDP countries and in the lower middle income group.
 The five countries that fall into this catergory are: Egypt, Thailand, Indonesia, India and China
+
+
+#Conclusion 
+From this analysis on the GDP and Education data we were able to see the similar Countries that were in both datasets that have a GDP and even for the ones that don't. We were able to find the average GDP for the Income Groups for High Income nonOECD countries which was roughly 92 and for High Income OECD countries the average GDP was roughly 32  which is close to one third of the nonOECD countries.From plotting the GDP for each Country by Income Group we were able to see the distribution on how many Countries fall into each category compared to their GDP. This showed us that the amount of GDP a country has does not determine what Income Group it falls into. Finally we further proved that just because a Country has a high GDP it does not mean it would be in a high income group. 
